@@ -4,14 +4,9 @@
 
 A curated list of awesome newsletters.
 
-Inspired by the `awesome-*` trend on GitHub.
-
-The goal is to build a categorized community-driven collection of very well-known resources.
-
-Sharing, suggestions and contributions are always welcome! Please take a look at the [contribution guidelines](https://github.com/zudochkin/awesome-newsletters/blob/master/CONTRIBUTING.md) first.
-
 Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/graphs/contributors).
 
+- [My Subscribed Newletters](#mysubscribed)
 - [Frontend](#frontend)
   - [General Web Development](#general-web-development)
   - [JavaScript](#javascript)
@@ -73,6 +68,24 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
 - [Miscellaneous](#miscellaneous)
 - [Resilience](#resilience)
 - [License](#license)
+
+## My Subscribed
+
+- [Top 10 Threads of the Week | Revue](http://newsletter.savetonotion.com/) - SaveToNotion
+- [Bytes Archive](https://bytes.dev/archives) - Javascript
+- [React Newsletter - The Archives](https://reactnewsletter.com/issues) - Reactjs
+- [ByteByteGo Newsletter | Alex Xu | Substack](https://blog.bytebytego.com/)
+- [L-Space Diaries | swyx | Substack](https://lspace.swyx.io/)
+- [Alyssa X | Substack](https://alyssax.substack.com/)
+- [CSS Weekly — Weekly e-mail roundup of latest CSS articles, tutorials, tools and experiments](https://css-weekly.com/)
+- [CSS Animation Weekly | Revue](http://weekly.cssanimation.rocks/)
+- [The Smashing Email Newsletter — Smashing Magazine](https://www.smashingmagazine.com/the-smashing-newsletter/)
+- [Newsletters | CSS-Tricks - CSS-Tricks](https://css-tricks.com/newsletters/)
+- [Welcome to Accessibility Weekly | Accessibility Weekly](https://a11yweekly.com/)
+- [Frontend Focus](https://frontendfoc.us/)
+- [Web Tools Weekly | A Weekly Newsletter for Front-end Developers](https://webtoolsweekly.com/) - A weekly newsletter for front-end developers with a specific focus on tools.
+- [Arpit’s Newsletter | Arpit Bhayani | Substack](https://arpit.substack.com/) - 🔥 Weekly essays on real-world system design, distributed systems, or a deep dive into some super-clever algorithm. Click to read Arpit’s Newsletter, by Arpit Bhayani, a Substack publication with thousands of readers.
+
 
 ## Frontend
 
